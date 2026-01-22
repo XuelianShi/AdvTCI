@@ -25,5 +25,8 @@ pip install -r requirements.txt
 
 ```
 
-## Data
+## Dataset
 URL https://pan.quark.cn/s/fa83853e8362 Password: 75hp
+This dataset named TT100K-TCI contains 10427 images. We then divided TT100K-TCI into training, validation,
+and testing sets with 7,568, 1,889, and 970 images, respectively.
+
